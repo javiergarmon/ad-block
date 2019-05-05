@@ -55,11 +55,6 @@
       }, {
       }]
     ],
-    "msvs_settings": {
-      'VCCLCompilerTool': {
-        'AdditionalOptions': [ '-std:c++17'  ]
-      }
-    },
     "xcode_settings": {
       "OTHER_CFLAGS": [ "-ObjC" ],
       "OTHER_CPLUSPLUSFLAGS" : ["-std=c++11", "-stdlib=libc++", "-v"],
