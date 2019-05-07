@@ -7,8 +7,8 @@
     "test": "test"
   },
   "dependencies": {
-    "bloom-filter-cpp": "^1.2.0",
-    "hashset-cpp": "^2.1.0",
+    "bloom-filter-cpp": "github:javiergarmon/bloom-filter-cpp#node12",
+    "hashset-cpp": "github:javiergarmon/hashset-cpp#node12",
     "nan": "^2.10.0"
   },
   "devDependencies": {
